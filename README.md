@@ -81,7 +81,7 @@ Este proyecto está distribuido bajo la licencia MIT.
 
 Katarium S Group 🇭🇷
 
-<p align="left"> <img src="https://img.shields.io/badge/-PhonkAlphabet-6C5CE7?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-Katarium-00D4AA?style=flat-square&logo=discord&logoColor=white" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/-Gaby-6C5CE7?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-Katarium-00D4AA?style=flat-square&logo=discord&logoColor=white" /> </p>
 ⚠️ Disclaimer
 ESTA HERRAMIENTA ES PROPORCIONADA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO.
 
