@@ -35,7 +35,6 @@ Su objetivo es ayudar a comprender este tipo de vulnerabilidades y facilitar pru
 
 # 🚀 Uso
 
-```bash
 python katarium_otp.py
 
 🎨 Capturas
