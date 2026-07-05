@@ -96,9 +96,9 @@ colorama>=0.4.6
 🏷️ Badges adicionales
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Mac-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Others-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-None-brightgreen?style=for-the-badge" />
 </p>
 
 by Katarium S Group 🇭🇷
